@@ -21,7 +21,7 @@
 Esta aplicação web foi desenvolvida para gerenciar o cadastro e login de usuários. Utilizando PHP e Bootstrap 5+, a aplicação oferece uma interface 
 moderna e responsiva, permitindo que novos usuários se cadastrem e usuários existentes façam login para acessar a área principal.
 
-....................................................................................
+..................................................................................................................................
 
 ### Introdução🌟
 
@@ -33,11 +33,12 @@ A aplicação consiste em três páginas principais:
 
 Para a estilização, foi utilizado o modelo "Cover" do Bootstrap 5+, garantindo um design limpo e responsivo.
 
-...................................................................................
+..............................................................................................................
 
 ### Funcionalidades
 
 >Registro de Usuário: Permite que novos usuários se cadastrem.<
+
 >Login de Usuário: Autenticação de usuários já cadastrados.<
 
 
