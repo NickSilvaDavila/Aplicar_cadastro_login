@@ -3,7 +3,7 @@
 𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠...
 
 # Índice🗝️
-   - [Aplicação de cadastro e login ](#Aplicação de cadastro e login%C3%A7%C3%A3o----Aplicação de cadastro e login)  
+   - [Aplicar cadastro e login ](#Aplicar cadastro e login%C3%A7%C3%A3o----Aplicar cadastro e login)  
    - [Descrição](#descri%C3%A7%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
    - [Funcionalidades](#funcionalidades)
