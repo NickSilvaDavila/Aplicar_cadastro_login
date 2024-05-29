@@ -28,7 +28,9 @@ moderna e responsiva, permitindo que novos usuários se cadastrem e usuários ex
 A aplicação consiste em três páginas principais:
 
 1-Tela Principal (index.php): Página inicial acessível apenas para usuários autenticados.
+
 2-Tela de Login (login.php): Página onde os usuários registrados podem fazer login.
+
 3-Tela de Cadastro (cadastro.php): Página onde novos usuários podem se registrar.
 
 Para a estilização, foi utilizado o modelo "Cover" do Bootstrap 5+, garantindo um design limpo e responsivo.
@@ -47,9 +49,13 @@ Para a estilização, foi utilizado o modelo "Cover" do Bootstrap 5+, garantindo
  ### Tecnologias Utilizadas🌐
 
 PHP: Linguagem de programação para o backend.
+
 MySQL: Banco de dados para armazenamento das informações dos usuários.
+
 Bootstrap 5+: Framework CSS para estilização e responsividade.
+
 HTML5: Estrutura das páginas web.
+
 CSS3: Estilização adicional.
 
 ...............................................................................
