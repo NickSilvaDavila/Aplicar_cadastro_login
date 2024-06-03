@@ -15,6 +15,11 @@
 
 # Atividade Avaliativa -  ATDAV 🚀
 
+![image info](tela_inicio.png)
+![image info](tela_cadastro.png)
+![image info](tela_login.png)
+
+
 ### Descrição
 
 Esta aplicação web meticulosamente desenvolvida oferece uma solução elegante para o gerenciamento de cadastro e login de usuários, utilizando uma combinação harmoniosa de PHP e Bootstrap 5+. O objetivo principal reside em proporcionar uma experiência moderna e responsiva aos usuários, garantindo que novos cadastros sejam realizados sem complicações e que usuários existentes possam acessar a área principal de forma rápida e eficiente. Além disso, o backend da aplicação é habilmente conectado a um banco de dados MySQL, garantindo a integridade e segurança dos dados.
