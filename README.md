@@ -81,8 +81,8 @@ CSS3: Estilização adicional.
 
  ### Fontes Consultadas🔍
 
- -[Inteligência Artifcial](https://chat.openai.com/).     
- -[alura](https://www.alura.com.br/artigos/escrever-bom-readme).       
+-[Inteligência Artifcial](https://chat.openai.com/).     
+-[alura](https://www.alura.com.br/artigos/escrever-bom-readme).       
 -[Bootstrap](https://getbootstrap.com/docs/5.0/examples/cover/). 
 -[Microsoft Bing](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx)
 -[Guia do PDO](https://www.php.net/manual/en/book.pdo.php)
