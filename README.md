@@ -15,9 +15,9 @@
 
 # Atividade Avaliativa -  ATDAV 🚀
 
-![image info](Tela_Inicio.png)
-![image info](Tela_Cadastro.png)
-![image info](Tela_Login.png)
+![image info](tela1.png)
+![image info](tela2.png)
+![image info](tela3.png)
 
 
 ### Descrição
